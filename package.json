@@ -51,6 +51,7 @@
     "spinnies": "^0.5.1",
     "tiktok-scraper": "^1.4.7",
     "translatte": "^2.5.8",
+    "wa-sticker-formatter": "^3.6.0",
     "youtube-sr": "^4.0.3",
     "ytdl-core": "^4.5.0"
   },
