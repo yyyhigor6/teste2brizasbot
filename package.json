@@ -26,7 +26,6 @@
     "axios": "^0.21.0",
     "cfonts": "^2.9.0",
     "cpf": "^2.0.1",
-    "discord-canvas": "^1.4.1",
     "emoji-unicode": "^2.0.1",
     "escape-string-regexp": "^1.0.5",
     "fake-useragent": "^1.0.1",
@@ -54,7 +53,6 @@
     "request": "^2.81.0",
     "reverse-image-search-google": "^1.0.3",
     "spinnies": "^0.5.1",
-    "swiftcord": "^2.1.7",
     "translatte": "^2.5.8",
     "youtube-sr": "^4.0.3",
     "ytdl-core": "^4.5.0"

@@ -34,8 +34,8 @@ return `┏🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖�
 ➻❥ *${p}ajuda*
 ➻❥ *${p}help*
 ➻❥ *${p}comandos*
+➻❥ *${p}menulite*
 ➻❥ *${p}menu*
-➻❥ *${p}menuv2*
 ➻❥ *${p}ping*
 ➻❥ *${p}destrava*
 ➻❥ *${p}sugerircmd* ❮ᵗˣᵗ❯
