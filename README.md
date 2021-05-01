@@ -92,6 +92,17 @@ Pix
 
 ---
 
+## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
+
+[KillovSky](https://github.com/KillovSky/iris)
+
+[Gabriel](wa.me/+5511946817667)
+
+[Lucass](https://luc4rio.herokuapp.com/api)
+
+[Thoth](wa.me/+55d11930758170)
+
+---
 # 🤝 Contato
 
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
