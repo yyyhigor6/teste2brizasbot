@@ -18,8 +18,9 @@
 - [O que é?](#🤔-O-que-é-?)
 - [Instalação](#⬇️-Instalação)
 - [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
-- [Donate](#Donate)
-- [Contatos](#Contato)
+- [Donate](#🥺-Donate)
+- [Contatos](#🤝-Contato)
+- [Contruibuição](#Contribuição)
 
 # 🤔 O que é ?
 
